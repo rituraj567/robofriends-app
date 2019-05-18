@@ -3,7 +3,7 @@
 
 This is a single page progressive web application where you can search a robot and the app displays the robots using an API.
 
-
+See the live preview by clicking on this link https://rituraj567.github.io/robofriends-app/
 
 Getting Started
 ===============
